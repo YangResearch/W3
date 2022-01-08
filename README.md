@@ -1,3 +1,3 @@
 # W3
 W3 model file in NC format
-Please download the data for details
+The data will be uploaded before the internal audit, please look forward to it
